@@ -8,4 +8,4 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 
 
 
-![alt-text](https://github.com/LeonardoLamoia/Cracha-nlw-dowhile/blob/main/gif.gif?raw=true)
+![alt-text]()
